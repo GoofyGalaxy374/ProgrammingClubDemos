@@ -1,0 +1,13 @@
+/media/martin/HDD/Училище/Кражок/Абстрактни класове - Демо/bin/Debug/netcoreapp3.1/Абстрактни класове - Демо
+/media/martin/HDD/Училище/Кражок/Абстрактни класове - Демо/bin/Debug/netcoreapp3.1/Абстрактни класове - Демо.deps.json
+/media/martin/HDD/Училище/Кражок/Абстрактни класове - Демо/bin/Debug/netcoreapp3.1/Абстрактни класове - Демо.runtimeconfig.json
+/media/martin/HDD/Училище/Кражок/Абстрактни класове - Демо/bin/Debug/netcoreapp3.1/Абстрактни класове - Демо.runtimeconfig.dev.json
+/media/martin/HDD/Училище/Кражок/Абстрактни класове - Демо/bin/Debug/netcoreapp3.1/Абстрактни класове - Демо.dll
+/media/martin/HDD/Училище/Кражок/Абстрактни класове - Демо/bin/Debug/netcoreapp3.1/Абстрактни класове - Демо.pdb
+/media/martin/HDD/Училище/Кражок/Абстрактни класове - Демо/obj/Debug/netcoreapp3.1/Абстрактни класове - Демо.csprojAssemblyReference.cache
+/media/martin/HDD/Училище/Кражок/Абстрактни класове - Демо/obj/Debug/netcoreapp3.1/Абстрактни класове - Демо.AssemblyInfoInputs.cache
+/media/martin/HDD/Училище/Кражок/Абстрактни класове - Демо/obj/Debug/netcoreapp3.1/Абстрактни класове - Демо.AssemblyInfo.cs
+/media/martin/HDD/Училище/Кражок/Абстрактни класове - Демо/obj/Debug/netcoreapp3.1/Абстрактни класове - Демо.csproj.CoreCompileInputs.cache
+/media/martin/HDD/Училище/Кражок/Абстрактни класове - Демо/obj/Debug/netcoreapp3.1/Абстрактни класове - Демо.dll
+/media/martin/HDD/Училище/Кражок/Абстрактни класове - Демо/obj/Debug/netcoreapp3.1/Абстрактни класове - Демо.pdb
+/media/martin/HDD/Училище/Кражок/Абстрактни класове - Демо/obj/Debug/netcoreapp3.1/Абстрактни класове - Демо.genruntimeconfig.cache
